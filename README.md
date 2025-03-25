@@ -1,3 +1,4 @@
+## In .env file you have to add a variable : EXPO_PUBLIC_FIREBASE_API_KEY (where you have to add firebased api key)
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
